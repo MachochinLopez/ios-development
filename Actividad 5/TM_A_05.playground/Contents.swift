@@ -68,11 +68,7 @@ extension String {
 ### Optionals
 A) Diseñar una variable optional para recibir el tipo de dato Int en caso de que exista.
 */
-
-
+var optionalInt: Int?
 //: B) Para la colección let dias = ["GDL":120, "PUE":300, "MTY":100, "CDMX":200] diseñar una variable opcional para recibir el valor de dias["DF"]
-
-
-
-
-
+var ciudades = ["GDL":120, "PUE":300, "MTY":100, "CDMX":200]
+var existe: Int?
