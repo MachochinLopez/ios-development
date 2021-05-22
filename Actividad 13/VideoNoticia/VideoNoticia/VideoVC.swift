@@ -1,11 +1,3 @@
-//
-//  VideoVC.swift
-//  VideoNoticia
-//
-//  Created by alicharlie on 12/05/16.
-//  Copyright © 2016 codepix. All rights reserved.
-//
-
 import UIKit
 import AVKit
 import AVFoundation
@@ -17,14 +9,12 @@ class VideoVC: AVPlayerViewController {
         super.viewDidLoad()
 
         let ligaVideo = "http://walterebert.com/playground/video/hls/sintel-trailer.m3u8"
-    
-        
-        
-        
-        
+        if let urlVideo = URL(string: ligaVideo) {
+            let asset = AVAsset(url: urlVideo)
+            let item = AVPlayerItem(asset: asset)
+            let miPlayer = AVPlayer(playerItem: item)
+            self.player = miPlayer
+            miPlayer.play()
+        }
     }
-
-    
-    
-
-   }
+}
