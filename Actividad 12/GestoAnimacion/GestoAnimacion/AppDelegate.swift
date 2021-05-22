@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GestoAnimacion
-//
-//  Created by alicharlie on 11/05/16.
-//  Copyright © 2016 codepix. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
