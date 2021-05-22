@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "205462A4-54B2-45F8-979E-396A978ECAD8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "953BDE9D-A62E-45C4-9FE9-5764018841C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coleccion/ColeccionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "ColeccionVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "953BDE9D-A62E-45C4-9FE9-5764018841C0 - df5ebb586c910ac8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.__allocating_init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; Coleccion.ColeccionVC"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "953BDE9D-A62E-45C4-9FE9-5764018841C0 - d15ef5a7b157ecb1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; Coleccion.ColeccionVC"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "953BDE9D-A62E-45C4-9FE9-5764018841C0 - 30c73ecb51b66025"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Coleccion.ColeccionVC"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "953BDE9D-A62E-45C4-9FE9-5764018841C0 - 50edd75feca3fc07"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Coleccion.ColeccionVC"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "953BDE9D-A62E-45C4-9FE9-5764018841C0 - bf409753e7b3e54"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Coleccion.ColeccionVC&gt;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "953BDE9D-A62E-45C4-9FE9-5764018841C0 - ab3f45719b8b56d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Coleccion.ColeccionVC&gt;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  uuid = "953BDE9D-A62E-45C4-9FE9-5764018841C0 - 295a338feabccecc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.__deallocating_deinit"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DD52FA5-90C7-4825-BD23-CA49F4FDA4D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coleccion/ColeccionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "ColeccionVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2DD52FA5-90C7-4825-BD23-CA49F4FDA4D8 - 857830dce09bc62b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.imgNum.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "2DD52FA5-90C7-4825-BD23-CA49F4FDA4D8 - 2d5417e2b8593217"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.imgNum.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "2DD52FA5-90C7-4825-BD23-CA49F4FDA4D8 - 2f51f88576801526"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.imgNum.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "2DD52FA5-90C7-4825-BD23-CA49F4FDA4D8 - bf106de5577c6bb4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.imgNum.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "2DD52FA5-90C7-4825-BD23-CA49F4FDA4D8 - d15ef5a7b157ecb1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; Coleccion.ColeccionVC"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "2DD52FA5-90C7-4825-BD23-CA49F4FDA4D8 - 50edd75feca3fc07"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Coleccion.ColeccionVC"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "2DD52FA5-90C7-4825-BD23-CA49F4FDA4D8 - ab3f45719b8b56d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Coleccion.ColeccionVC&gt;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "111">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84AEFBB8-2919-4FA3-9657-3FF7707D07CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coleccion/ColeccionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ColeccionVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "84AEFBB8-2919-4FA3-9657-3FF7707D07CC - b16450d29bda1a99"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.numeros.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "84AEFBB8-2919-4FA3-9657-3FF7707D07CC - d15ef5a7b157ecb1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; Coleccion.ColeccionVC"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "84AEFBB8-2919-4FA3-9657-3FF7707D07CC - 50edd75feca3fc07"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Coleccion.ColeccionVC"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "84AEFBB8-2919-4FA3-9657-3FF7707D07CC - ab3f45719b8b56d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coleccion.ColeccionVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Coleccion.ColeccionVC&gt;"
+                  moduleName = "Coleccion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user183079/Documents/GitHub/joel-qiki/actividad11/actividad11/Coleccion/Coleccion/ColeccionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
